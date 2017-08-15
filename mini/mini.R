@@ -2,8 +2,8 @@ data <- list(x=rivers)
 parameters <- list(mu=0, logSigma=0)
 
 require(TMB)
-compile('mini.cpp','-fno-gnu-unique -O0 -Wall')
-dyn.load(dynlib('mini'))
+compile("mini.cpp")
+dyn.load(dynlib("mini"))
 
 ################################################################################
 
