@@ -36,5 +36,5 @@ Type objective_function<Type>::operator() ()
 	REPORT(sd);
 	REPORT(rho);
 	
-	return nll;
+	return neglogL;
 }

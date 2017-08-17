@@ -23,16 +23,17 @@ pairs(X, lower.panel=frame())
 #########################################
 #Organize data for TMB
 data <- list(X=X)
-parameters <- list(log_sd=rep(0,p),
-		           transformed_rho=0,
-			       mu=rep(0,p))
+parameters <- list( mu=rep(0,p),
+                    log_sd=rep(0,p),
+		                transformed_rho=0
+			       )
 
 #########################################
 #Build and fit model
-compile("simpleMVN3.cpp")
-dyn.load(dynlib("simpleMVN3"))
+compile("simpleMVN1.cpp")
+dyn.load(dynlib("simpleMVN1"))
 			
-model <- MakeADFun(data, parameters, DLL="simpleMVN3")
+model <- MakeADFun(data, parameters, DLL="simpleMVN1")
 fit <- nlminb(model$par, model$fn, model$gr)
 
 ########################################
