@@ -1,9 +1,9 @@
 # Multivariate Normal
 
-##SimpleMVN1 
+## SimpleMVN1 
 This example simulates and fits MVN data with a compound symmetric correlation structure.
 
-##SimpleMVN2
+## SimpleMVN2
 This example simulates and fits MVN data with an unstructured correlation structure. It demonstrates how to keep the variance-covariance matrix positive definite by parameterizing it using the special TMB function`UNSTRUCTURED_CORR`.
 
 The two examples introduce the following
