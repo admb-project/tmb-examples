@@ -11,7 +11,7 @@ This is a very minimal example of how to do a linear regression to estimate a sl
 **An accompanying video is available [here](https://www.youtube.com/watch?v=A5CLrhzNzVU).**
 
 ## Orange Trees
-This example was previously developed for ADMB, R, and OpenBUGS as part of an (NCEAS working group)[https://groups.nceas.ucsb.edu/non-linear-modeling/projects]. A full description of the assumptions of the model can be found there.
+This example was previously developed for ADMB, R, and OpenBUGS as part of an [NCEAS working group](https://groups.nceas.ucsb.edu/non-linear-modeling/projects). A full description of the assumptions of the model can be found there.
 
 ## Multivariate Normal
 This example fits a multivariate normal distribution to simulated data.
