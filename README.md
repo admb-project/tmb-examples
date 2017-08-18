@@ -8,7 +8,7 @@ This is a minimal example that uses maximum likelihood estimation to find the me
 ## Linear Regression
 This is a very minimal example of how to do a linear regression to estimate a slope and an intercept while assuming normally distributed errors.
 
-**An accompanying video is available [here](https://www.youtube.com/watch?v=A5CLrhzNzVU).**
+**An accompanying video is available [![here](https://www.youtube.com/watch?v=A5CLrhzNzVU)].**
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/A5CLrhzNzVU" frameborder="0" allowfullscreen></iframe>
 
