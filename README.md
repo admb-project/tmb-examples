@@ -2,8 +2,8 @@
 
 This is a collection of TMB examples produced by the ADMB Foundation. They may be similar but not identical to examples found elsewhere.
 
-## Minimal
-This is a minimal example that uses maximum likelihood estimation to find the mean and variance of a normally distributed variable. 
+## [Minimal](https://github.com/admb-project/tmb-examples/tree/master/minimal)
+This is a minimal example that uses maximum likelihood estimation to find the mean and variance of a normally distributed variable.
 
 ## Linear Regression
 This is a very minimal example of how to do a linear regression to estimate a slope and an intercept while assuming normally distributed errors.
