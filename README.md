@@ -2,12 +2,12 @@
 
 This is a collection of TMB examples hosted by the ADMB Foundation. They may be similar but not identical to examples found elsewhere.
 
-## [Minimal](tree/master/minimal)
+## [Minimal](minimal)
 Minimal example that uses maximum likelihood estimation to find the mean and variance of a normally distributed variable.
 
 This example is based on a template that comes with Emacs [tmb-mode](https://github.com/kaskr/adcomp/blob/master/emacs/tmb.el).
 
-## [Linear Regression](tree/master/linear-regression)
+## [Linear Regression](linear-regression)
 Simple linear regression, estimating a slope and an intercept while assuming normally distributed errors.
 
 This example is used in a YouTube **video** called [TMB tutorial: The basics](https://www.youtube.com/watch?v=A5CLrhzNzVU&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
