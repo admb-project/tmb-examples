@@ -1,4 +1,4 @@
-# tmb-examples
+# TMB Examples
 
 This is a collection of TMB examples hosted by the ADMB Foundation. They may be similar but not identical to examples found elsewhere.
 
@@ -10,7 +10,7 @@ Based on a template that comes with Emacs [tmb-mode](https://github.com/kaskr/ad
 ## [Linear Regression](linear-regression)
 Simple linear regression, estimating a slope and an intercept while assuming normally distributed errors.
 
-See **YouTube video** [TMB tutorial: The basics](https://www.youtube.com/watch?v=A5CLrhzNzVU&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
+See **YouTube video** :movie_camera: [TMB tutorial: The basics](https://www.youtube.com/watch?v=A5CLrhzNzVU&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
 
 ## [Orange Trees](orange-trees)
 Nonlinear mixed-effects model: logistic growth of trees, where the asymptotic maximum varies between trees.
@@ -20,12 +20,4 @@ Previously implemented in ADMB, R, and BUGS as part of an [NCEAS working group](
 ## [Multivariate Normal](multivariate-normal)
 Fit a multivariate normal distribution to simulated data.
 
-See **YouTube video** [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
-
 See **YouTube video** :movie_camera: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
-
-See **YouTube video** :clapper: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
-
-See **YouTube video** :arrow_forward: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
-
-See **YouTube video** :cinema: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).

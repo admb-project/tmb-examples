@@ -3,7 +3,7 @@
 ## SimpleMVN1
 Simulate and fit MVN data with a compound symmetric correlation structure.
 
-See **YouTube video** link in the in the [main overview](../../..#multivariate-normal).
+See **YouTube video** :movie_camera: link in the in the [main overview](../../..#multivariate-normal).
 
 ## SimpleMVN2
 Simulate and fit MVN data with an unstructured correlation structure. Demonstrates how to keep the variance-covariance matrix positive definite by parameterizing it using the special TMB function`UNSTRUCTURED_CORR`.
