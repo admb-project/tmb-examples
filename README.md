@@ -15,7 +15,7 @@ This example is used in a **YouTube video** called [TMB tutorial: The basics](ht
 ## [Orange Trees](orange-trees)
 Nonlinear mixed-effects model: logistic growth of trees, where the asymptotic maximum varies between trees.
 
-This example was previously developed to compare ADMB, R, and BUGS as part of an [NCEAS working group](https://groups.nceas.ucsb.edu/non-linear-modeling/projects). A full description of the model can be found there.
+This model was previously implemented in ADMB, R, and BUGS as part of an [NCEAS working group](https://groups.nceas.ucsb.edu/non-linear-modeling/projects). A full description of the model can be found there.
 
 ## Multivariate Normal
 This example fits a multivariate normal distribution to simulated data.
