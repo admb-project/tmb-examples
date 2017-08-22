@@ -20,4 +20,12 @@ Previously implemented in ADMB, R, and BUGS as part of an [NCEAS working group](
 ## [Multivariate Normal](multivariate-normal)
 Fit a multivariate normal distribution to simulated data.
 
-See **YouTube video** called [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
+See **YouTube video** [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
+
+See **YouTube video** :movie_camera: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
+
+See **YouTube video** :clapper: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
+
+See **YouTube video** :arrow_forward: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
+
+See **YouTube video** :cinema: [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
