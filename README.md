@@ -17,7 +17,7 @@ Nonlinear mixed-effects model: logistic growth of trees, where the asymptotic ma
 
 Previously implemented in ADMB, R, and BUGS as part of an [NCEAS working group](https://groups.nceas.ucsb.edu/non-linear-modeling/projects). A full description of the model can be found there.
 
-## Multivariate Normal
-This example fits a multivariate normal distribution to simulated data.
+## [Multivariate Normal](multivariate-normal)
+Fit a multivariate normal distribution to simulated data.
 
-**An accompanying video is available [here]().**
+See **YouTube video** called [TMB tutorial: Multivariate normal](https://www.youtube.com/watch?v=M8dR3mvZ5vc&list=PLG2Iwmq6WW1QMUA43675d8XdmzgrgwDYX).
